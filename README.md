@@ -36,7 +36,7 @@ Before you dive into the ByteCourier experience, make sure you have the followin
 - **Confirm delivery:** Recipients will receive a notification and can download the file immediately.
 
 ## Screenshots
-<img src="images/WhatsApp Image 2024-08-02 at 13.25.55.jpeg">
+<img src="images/WhatsApp Image 2024-08-02 at 13.25.55.png">
 
 ## 🛡️ Security
 
