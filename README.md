@@ -35,8 +35,22 @@ Before you dive into the ByteCourier experience, make sure you have the followin
 
 - **Confirm delivery:** Recipients will receive a notification and can download the file immediately.
 
+## Screenshots
+<img src="images/WhatsApp Image 2024-08-02 at 13.25.55.jpeg">
+
 ## 🛡️ Security
 
 Your files are important to us. ByteCourier uses secure connections to ensure your data is protected during transfer. We are committed to providing a safe and reliable file-sharing experience.
 
+## 📬 Contact
 
+For any questions or feedback, please open an issue on the repository or contact the project maintainer.
+
+![author](https://img.shields.io/badge/author-Yash--Mall-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yashmall/)
+
+
+---
+
+
+<p align="center"> Happy Sharing! 🗃 </p>
